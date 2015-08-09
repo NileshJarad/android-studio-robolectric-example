@@ -1,5 +1,3 @@
-![build status](https://travis-ci.org/mutexkid/android-studio-robolectric-example.svg)
-
 ## Android Studio Build Variants + Robolectric Test Example
 --- 
 This example project shows how to use robolectric, junit and assertJ with your gradle-based Android Studio projects. Specifically, this shows how to test different *build configurations*, and *product flavors*.
